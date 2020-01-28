@@ -198,3 +198,6 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     shutdownlistener \
     TimeService
+    
+PRODUCT_SOONG_NAMESPACES += \
+    vendor/oneplus/bacon
